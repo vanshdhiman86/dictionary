@@ -9,4 +9,4 @@ difflib
 
 Output:
 
-<img src="images\1.jpg" width="400">
+<img src="images\1.jpg">
